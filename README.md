@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**FelixFolkebrant/FelixFolkebrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi my name is Felix! 
 
-Here are some ideas to get you started:
+---
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Passionate about efficient, scalable system architecture and UX-focused application design. Build fast, learn/break things, and have fun. 
+
+- 🎓 Dual degree student in Computer Science 💻 and Business 💼 at Linköping University  
+- 💻 Full-stack developer by day, homelab tinkerer by night  
+- 💬 Talk to me about Arch (arch btw), dumb solutions to complicated problems (or the opposite), and design that just makes sense
+
+**🚧 Currently working on**
+- **Postra** — A lightweight, AI-assisted help desk for helping upscale small to mid size e-commerce stores
+- **LiTHe Schema** — A website that allows students at Linköping University to instantly add exam and sign up dates to their calendar
+  
+---
+**🤝 Connect with me**
+- 💼 [LinkedIn](https://se.linkedin.com/in/felix-folkebrant)
+- 📬 felix.folkebrant@folkebrant.se

@@ -1,5 +1,5 @@
 
-### Hi my name is Felix! 
+### Hi, my name is Felix! 
 
 ---
 ### About me

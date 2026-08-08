@@ -13,4 +13,4 @@
 ---
 **Connect with me**
 - [LinkedIn](https://se.linkedin.com/in/felix-folkebrant)
-- [Mail](felix.folkebrant@folkebrant.se)
+- [Mail](mailto:felix.folkebrant@folkebrant.se)

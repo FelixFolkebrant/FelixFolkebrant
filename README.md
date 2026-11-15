@@ -8,7 +8,7 @@ Location:    Linköping, Sweden
 Interests:   • Performant software architecture
              • UX-focused application design
              • Organizational structure
-             • and leadership
+               and leadership
 Beliefs:     • Opinionated > Impartial
              • Simple > Complex
              • Programming = craft
